@@ -58,7 +58,7 @@ else{
 
 
 
-// changing songs
+// changing song
 const loadSong = (songs) => {
     title.textContent = songs.title;
     artist.textContent = songs.artist;
